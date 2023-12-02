@@ -1,3 +1,8 @@
+# Scene graph / Affine transformation
+*   A scene graph that consists of nodes, where each node represents one part of a robot
+*   Select individual nodes visibly in the scene graph using the w, a, s, d
+*   Allows you to rotate the selected node using the arrow keys
+
 ## Requirements
 
 * node.js

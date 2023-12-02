@@ -1,3 +1,6 @@
+## WebGLBasics
+* An object in the scene with a gui that allows some functionalities such as scaling, changing color etc.
+
 ## Requirements
 
 * node.js
