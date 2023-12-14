@@ -1,3 +1,12 @@
+# Shading
+* Different shaders for 4 objects controllable from gui
+* Normal Shader and Toon Shader
+* Ambient Shader and Diffuse Light Shader with from gui controllable parameters(color, reflectance)
+* Phong illumination model with two common interpolation methods for it: Gouraud and Phong
+* Cook-Torrance shader using the Phong interpolation technique with:
+  GGX normal distribution function for D, Smith’s masking functions for G, and Schlick’s approximation for F
+
+
 ## Requirements
 
 * node.js
